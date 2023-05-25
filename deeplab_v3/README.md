@@ -4,7 +4,7 @@
 
 ## Weights
 You can download pretrained weights (deeplab_mobilenetv2.pth) from  https://pan.baidu.com/s/1IQ3XYW-yRWQAy7jxCUHq8Q   
-and put it into model_data/deeplab_mobilenetv2.pth
+and put it into model_data/deeplab_mobilenetv2.pth  
 code:qqq4
 
 ## Train
